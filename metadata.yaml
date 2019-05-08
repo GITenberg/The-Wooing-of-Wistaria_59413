@@ -1,5 +1,8 @@
 _repo: The-Wooing-of-Wistaria_59413
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59413-h/images/cover.jpg
 creator:
   author:
     agent_name: Eaton, Winnifred
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49587
     wikipedia: https://en.wikipedia.org/wiki/Winnifred_Eaton_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59413#The-Wooing-of-Wistaria
 gutenberg_issued: '2019-05-02'
 gutenberg_type: Text
 identifiers:
